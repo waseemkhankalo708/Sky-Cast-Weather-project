@@ -93,6 +93,5 @@ Double-click the `.Designer.cs` file for any form, or open the Designer from its
 - Wind-unit settings
 - Weather alerts and rain or storm animations
 
-## License
 
 
