@@ -11,13 +11,17 @@ A Windows desktop weather dashboard built with C# and .NET 8 (Windows Forms). It
 - **Settings:** default city, °C or °F, auto-refresh on or off, a refresh interval from 5 to 180 minutes, and a choice of four themes: Colorful, Dark, Light, and Black.
 
 ## Screenshots
-# Dashboard
+### Dashboard
 ![Dashboard](screenshots/dashboard.png)
 
-# Weather Map
+
+
+### Weather Map
 ![Weather Map](screenshots/weather-map.png)
 
-# Settings
+
+
+### Settings
 ![Settings](screenshots/settings.png)
 
 ## Requirements
